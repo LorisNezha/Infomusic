@@ -1638,7 +1638,7 @@ ul.list-style li:last-child {
 /*=========== End doc_banner_area_two css ============*/
 /*=========== Start Banner Support ============*/
 .kbDoc-banner-support {
-  height: 600px;
+  height: 100%;
   background-image: url(../img/background1.jpg);
   background-position: center; 
   background-repeat: no-repeat; 
